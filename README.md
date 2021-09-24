@@ -54,7 +54,7 @@ server.listen(PORT, (error) => {
 
 12. Go to `http://localhost:3000/`
 
-## Progress with Express:
+## Progress with Express 1:
 
 (`cd lesson02/express-server-0`)
 
@@ -168,7 +168,7 @@ app.post("/home", (req, res) => {
 
 14. Go to `http://localhost:8081/`
 
-## Progress with Express:
+## Progress with Express 2:
 
 (`cd lesson02/express-server`)
 
