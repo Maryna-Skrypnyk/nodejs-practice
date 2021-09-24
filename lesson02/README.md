@@ -1,5 +1,3 @@
-# nodejs-practice
-
 ## Progress with HTTP:
 
 (`cd lesson02/http-server`)
@@ -19,7 +17,7 @@
 "start:dev": "nodemon app.js"
 ```
 
-5. Import modules `http`, `fs`, `path` in `app.js`
+5. Import module `http`, `fs`, `path` in `app.js`
 
 6. Create TypeMime-object:
 
