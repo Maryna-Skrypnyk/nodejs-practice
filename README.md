@@ -1,6 +1,6 @@
 # nodejs-practice
 
-[lesson02](https://github.com/Maryna-Skrypnyk/nodejs-practice/blob/main/lesson02/README.md README.md)
+[lesson02](./lesson02/README.md README)
 [lesson03] ()
 
 ## Progress with HTTP:
