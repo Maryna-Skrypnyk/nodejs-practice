@@ -1,5 +1,8 @@
 # nodejs-practice
 
+[lesson02](https://github.com/Maryna-Skrypnyk/nodejs-practice/blob/main/lesson02/README.md README.md)
+[lesson03] ()
+
 ## Progress with HTTP:
 
 (`cd lesson02/http-server`)
