@@ -1,6 +1,8 @@
 # nodejs-practice
 
-[lesson02](lesson02/README.md README)
+[lesson02](/lesson02/README.md README)
+
+<a href="lesson02/README.md">Lesson02</a>
 
 [lesson03] ()
 
