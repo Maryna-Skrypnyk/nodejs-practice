@@ -1,10 +1,10 @@
 # nodejs-practice
 
-[lesson02](/lesson02/README.md README)
+[lesson02](/lesson02 README)
 
 <a href="lesson02">Lesson02</a>
 
-[lesson03] ()
+<a href="lesson03">Lesson03</a>
 
 ## Progress with HTTP:
 
