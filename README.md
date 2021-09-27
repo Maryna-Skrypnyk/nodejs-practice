@@ -1,6 +1,7 @@
 # nodejs-practice
 
-[lesson02](./lesson02/README.md README)
+[lesson02](lesson02/README.md README)
+
 [lesson03] ()
 
 ## Progress with HTTP:
