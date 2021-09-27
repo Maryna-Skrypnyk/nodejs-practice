@@ -2,7 +2,7 @@
 
 [lesson02](/lesson02/README.md README)
 
-<a href="lesson02/README.md">Lesson02</a>
+<a href="lesson02">Lesson02</a>
 
 [lesson03] ()
 
