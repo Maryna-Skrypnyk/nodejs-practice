@@ -1,7 +1,8 @@
 # nodejs-practice
 
-<a href="lesson02">Lesson02</a>
-<a href="lesson03">Lesson03</a>
+<code><a href="lesson02">Lesson02</a></code>
+
+<code><a href="lesson03">Lesson03</a></code>
 
 ## Progress with HTTP:
 
