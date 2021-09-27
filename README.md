@@ -1,9 +1,6 @@
 # nodejs-practice
 
-[lesson02](https://github.com/Maryna-Skrypnyk/nodejs-practice/tree/main/lesson02 README)
-
 <a href="lesson02">Lesson02</a>
-
 <a href="lesson03">Lesson03</a>
 
 ## Progress with HTTP:
