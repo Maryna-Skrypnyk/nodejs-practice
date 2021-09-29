@@ -13,8 +13,6 @@ app.use(morgan("tiny")); // for log
 app.use(cors());
 // app.use("/api", router);
 
-// http://api.weatherbit.io/v2.0/current?key=94de9db0686e4f58938465027aa8ac5d&lat=50.427107&lon=30.567437
-
 app.get("/api/weather", async (req, res) => {
   try {
     const { latitude, longitude } = req.query;
