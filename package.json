@@ -1,7 +1,7 @@
 {
-  "name": "nodejs-practice",
+  "name": "nodejs-lessons",
   "version": "1.0.0",
-  "description": "1. `npm init y`",
+  "description": "<code><a href=\"lesson02\">Lesson02</a></code>\r <code><a href=\"lesson03\">Lesson03</a></code>",
   "main": "index.js",
   "dependencies": {
     "http-server": "^1.0.0"
@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Maryna-Skrypnyk/nodejs-practice.git"
+    "url": "git+https://github.com/Maryna-Skrypnyk/nodejs-lessons.git"
   },
   "author": "Maryna Skrypnyk <marina.skrypnyk@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Maryna-Skrypnyk/nodejs-practice/issues"
+    "url": "https://github.com/Maryna-Skrypnyk/nodejs-lessons/issues"
   },
-  "homepage": "https://github.com/Maryna-Skrypnyk/nodejs-practice#readme"
+  "homepage": "https://github.com/Maryna-Skrypnyk/nodejs-lessons#readme"
 }
